@@ -1,6 +1,9 @@
 {
   "name": "jscolor",
-  "version": "3.2.0",
-  "description": "jscolor library",
+  "version": "2.0.4",
+  "description": "jscolor is a web color picker component that aims to be super easy both for developers to install and end users to use",
+  "author": "EastDesire",
+  "dependencies": {},
+  "devDependencies": {},
   "main": "jscolor.js"
 }
