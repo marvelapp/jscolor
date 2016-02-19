@@ -2,5 +2,5 @@
   "name": "jscolor",
   "version": "3.2.0",
   "description": "jscolor library",
-  "main": "jscolor.js",
+  "main": "jscolor.js"
 }
